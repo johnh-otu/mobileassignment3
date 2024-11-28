@@ -1,0 +1,4 @@
+#Wed Nov 27 18:35:13 EST 2024
+base.0=D\:\\Documents\\AndroidStudio\\sofe4640\\food_ordering_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
